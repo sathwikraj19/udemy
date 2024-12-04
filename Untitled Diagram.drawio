@@ -7,6 +7,36 @@
         <mxCell id="ctASbWeezz6uedYOUJVE-1" value="GMSC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="10" y="1040" width="830" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ctASbWeezz6uedYOUJVE-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=10;whiteSpace=wrap;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="960" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ctASbWeezz6uedYOUJVE-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=10;whiteSpace=wrap;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="960" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ctASbWeezz6uedYOUJVE-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=10;whiteSpace=wrap;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="680" y="960" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ctASbWeezz6uedYOUJVE-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=10;whiteSpace=wrap;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="960" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ctASbWeezz6uedYOUJVE-9" value="Sip-Proxy 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="965" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctASbWeezz6uedYOUJVE-10" value="Sip-Proxy 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="965" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctASbWeezz6uedYOUJVE-11" value="Sip-Proxy 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="965" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctASbWeezz6uedYOUJVE-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=20;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="30" y="950" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctASbWeezz6uedYOUJVE-12" value="Sip-Proxy 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="965" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctASbWeezz6uedYOUJVE-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=20;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="520" y="950" width="280" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
