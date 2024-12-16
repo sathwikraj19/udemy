@@ -30,7 +30,7 @@
         <mxCell id="SLS9UE2uE-aoIdYymlmA-4" value="Middleware 1:-&amp;nbsp;&lt;div&gt;10.84.0.236:9117&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="440" y="250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SLS9UE2uE-aoIdYymlmA-8" value="CRBT_MIDDLEWARE_ATOM_APP [ATOM-APP]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="SLS9UE2uE-aoIdYymlmA-8" value="CRBT_MIDDLEWARE_ATOM_APP [NEW_MIDDLEWARE]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="640" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SLS9UE2uE-aoIdYymlmA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="SLS9UE2uE-aoIdYymlmA-9" target="SLS9UE2uE-aoIdYymlmA-10">
